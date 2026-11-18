@@ -1,0 +1,6 @@
+{
+  "name": "GlassGuard CV — Real-Time Glass Bottle Crack Detection",
+  "description": "Industrial real-time glass bottle crack detection and quality inspection system using controlled diffuse backlighting and classical OpenCV computer vision.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

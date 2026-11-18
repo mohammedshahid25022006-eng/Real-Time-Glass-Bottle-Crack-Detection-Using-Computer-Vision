@@ -1,0 +1,6 @@
+Inspection ID,Date & Time (UTC),Source,Classification,Heuristic Score (0-100),Defect Count,Processing Time (ms),Lighting Condition,Camera Distance (cm),Diffuser Distance (cm),Review Status,Review Notes,Defect Locations
+INSP-1005,2026-11-18T17:15:27.281Z,camera,SUSPECTED CRACK,94,1,42.91,High-intensity normal lighting,25,18,CONFIRMED DEFECT,Verified during QA audit,"Mid Body Wall (Center) [196,147,90x103]"
+INSP-1004,2026-11-18T16:44:49.596Z,upload,SUSPECTED CRACK,100,1,39.32,Medium red lighting,25,18,PENDING,,"Mid Body Wall (Center) [189,111,107x163]"
+INSP-1003,2026-11-18T16:14:49.596Z,upload,NORMAL,0,0,39.33,Medium-intensity warm lighting,40,18,MARKED NORMAL,,None
+INSP-1002,2026-11-18T15:44:49.596Z,upload,SUSPECTED CRACK,94,1,41.47,High-intensity cozy lighting,25,18,CONFIRMED DEFECT,Verified hairline crack against backlit diffuser.,"Mid Body Wall (Center) [200,146,85x106]"
+INSP-1001,2026-11-18T15:14:49.596Z,upload,NORMAL,0,0,104.24,High-intensity normal lighting,25,18,MARKED NORMAL,,None
